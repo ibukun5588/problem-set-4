@@ -1,0 +1,8 @@
+# Ignore the virtual environment directory
+ps4Env/
+
+# Ignore the main.py file
+main with struct.py
+
+
+
